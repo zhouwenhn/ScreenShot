@@ -16,7 +16,7 @@ import cn.ninegame.gamemanagerhd.util.Util;
 /**
  * 手机系统截图类（任意地方进行随时截图）
  * 
- * @author fangjw@ucweb.com
+ * @author zhouwen
  * 
  */
 public class SnapShot {
